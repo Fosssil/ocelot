@@ -1,5 +1,9 @@
 # ocelot
 
+## Scrrenshots:
+![1st image]([image link](https://github.com/Fosssil/ocelot/blob/main/Images/image_1.png))
+![2nd image]([image link](https://github.com/Fosssil/ocelot/blob/main/Images/image_2.png))
+
 ## Project Description:
 
 Ocelot is an innovative Android application designed to provide users with access to premium features and customised experiences within popular apps, without the need for subscriptions or payments. The application caters to Android users seeking enhanced functionalities in apps like YouTube, Instagram, Truecaller, and more. Developed using the Flutter framework for an immersive user interface, and leveraging Firebase for seamless backend management, Ocelot ensures users have access to the latest versions and features.
