@@ -1,8 +1,8 @@
-# ocelot
+# OCELOT
 
 ## Scrrenshots:
-![1st image]([image link](https://github.com/Fosssil/ocelot/blob/main/Images/image_1.png))
-![2nd image]([image link](https://github.com/Fosssil/ocelot/blob/main/Images/image_2.png))
+![1st image](https://github.com/Fosssil/ocelot/blob/main/Images/image_1.png)
+![2nd image](https://github.com/Fosssil/ocelot/blob/main/Images/image_2.png)
 
 ## Project Description:
 
